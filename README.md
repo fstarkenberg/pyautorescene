@@ -18,7 +18,7 @@ Currently, the best and most tested method of executing this script is `autoresc
 
 It is **seriously** recommended to output to a completely separate folder that you're happy to delete. 
 
-<pre>
+```
 stick$ autorescene.py --help
 usage: autorescene.py [--opts] input1 [input2] ...
 
@@ -48,5 +48,5 @@ optional arguments:
                         .mkv, .avi, .mp4)
   --keep-srr            keep srr in output directory
   --keep-srs            keep srs in output directory
-</pre>
+```
 
