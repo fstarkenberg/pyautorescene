@@ -1,3 +1,7 @@
+Forked
+------
+Forked from [sticki](https://bitbucket.org/sticki/pyautorescene)  
+
 pyautorescene
 =============
 pyautorescene automates the process of returning un-rarred scene releases back into their former glory.  It makes use of [PyReScene](https://bitbucket.org/Gfy/pyrescene) and [srrDB](http://srrdb.com) to make the whole process has hands off as possible.
